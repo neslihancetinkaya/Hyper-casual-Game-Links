@@ -1,5 +1,5 @@
 # Hyper-casual-Game-Links
-Here are the links to the games I made in Gigantic Studio. <br /> 
+Here are the links to the games I made with my teammates in Gigantic Studio. <br /> 
 <a href="https://apps.apple.com/us/app/battle-tower-run/id1581323433" target="_blank">Battle Tower Run</a> <br /> 
 <a href="https://apps.apple.com/us/app/buster-master/id1582906696" target="_blank">Buster Master</a> <br /> 
 <a href="https://apps.apple.com/us/app/baddie-squad/id1585960073" target="_blank">Baddie Squad</a> <br /> 
